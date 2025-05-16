@@ -1,0 +1,21 @@
+PODS:
+  - CalculatorLibrary (1.0)
+
+DEPENDENCIES:
+  - CalculatorLibrary (from `https://github.com/ayin-dev/CalculatorLibrary.git`)
+
+EXTERNAL SOURCES:
+  CalculatorLibrary:
+    :git: https://github.com/ayin-dev/CalculatorLibrary.git
+
+CHECKOUT OPTIONS:
+  CalculatorLibrary:
+    :commit: f038a5a3afe7587ee286f4d5e92a2a149364d93b
+    :git: https://github.com/ayin-dev/CalculatorLibrary.git
+
+SPEC CHECKSUMS:
+  CalculatorLibrary: 5b830a4ec19cc570309bc20fa1f464ca5db359dd
+
+PODFILE CHECKSUM: 9b7cda34e6e5324b54fef062e380378cd61c73f6
+
+COCOAPODS: 1.16.2
