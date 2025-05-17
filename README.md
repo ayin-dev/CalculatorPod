@@ -1,7 +1,9 @@
-
 Create an app
+
 Create a Podfile
+
 pod install
+
 Xcode open xcworkspace, NOT xcodeproj
 
 Sanbox error
