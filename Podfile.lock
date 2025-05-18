@@ -1,21 +1,16 @@
 PODS:
-  - CalculatorLibrary (1.0)
+  - CalculatorLibrary (1.2)
 
 DEPENDENCIES:
-  - CalculatorLibrary (from `https://github.com/ayin-dev/CalculatorLibrary.git`)
+  - CalculatorLibrary (= 1.2)
 
-EXTERNAL SOURCES:
-  CalculatorLibrary:
-    :git: https://github.com/ayin-dev/CalculatorLibrary.git
-
-CHECKOUT OPTIONS:
-  CalculatorLibrary:
-    :commit: f038a5a3afe7587ee286f4d5e92a2a149364d93b
-    :git: https://github.com/ayin-dev/CalculatorLibrary.git
+SPEC REPOS:
+  https://github.com/ayin-dev/CalculatorLibrary.git:
+    - CalculatorLibrary
 
 SPEC CHECKSUMS:
-  CalculatorLibrary: 5b830a4ec19cc570309bc20fa1f464ca5db359dd
+  CalculatorLibrary: 9f999567d7e3dfe0534531f66fc32a852bcb6b78
 
-PODFILE CHECKSUM: 9b7cda34e6e5324b54fef062e380378cd61c73f6
+PODFILE CHECKSUM: 3b64d3a48f9504317e1b21740a2a792a1f9c00b1
 
 COCOAPODS: 1.16.2

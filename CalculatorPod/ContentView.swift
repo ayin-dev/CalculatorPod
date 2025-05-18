@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world! \(Calculator().multitply(10, with: 20))")
+            Text("Hello, world! Version is \(Calculator.version())")
         }
         .padding()
     }
